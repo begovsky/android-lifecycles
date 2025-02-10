@@ -7,6 +7,8 @@ android {
     compileSdkVersion 34
     buildToolsVersion "34.0.0"
 
+    namespace "com.techyourchance.androidlifecycles"
+
     defaultConfig {
         applicationId "com.techyourchance.androidlifecycles"
         minSdkVersion 26
